@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+body {
+	background-color: lightyellow;
+}
+
+h1,
+h2,
+h3,
+h4,
+a,
+p,
+li {
+	color: purple;
+	font-family: 'VT323', monospace;
+}
